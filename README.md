@@ -10,7 +10,8 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineer
 | **Nombre** | **Github Username** |
 | ------------------------------------------- | ------------------------------------------------- |
 | Felipe Torres                               | [@fforres](https://github.com/fforres)            |
-| Benjamin Perez                               | [@benjvvp](https://github.com/benjvvp)            |
+| Benjamin Perez                              | [@benjvvp](https://github.com/benjvvp)            |
+| Vicente González                            | [@Vicente-G](https://github.com/Vicente-G)        |
 
 <!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
 <!--
