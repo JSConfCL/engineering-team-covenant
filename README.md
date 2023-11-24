@@ -2,7 +2,7 @@
 
 Este repo es nuestro registro de quienes pertenecen al Equipo de Ingenería de JavaScript Chile.
 
-Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineering Tennants](https://docs.google.com/document/d/1RnN78JLRjHdlpW5183LIqBl1yfCcsovtz4LuWMRimI0), se compromenten a seguir y hacer cumplir nuestro [código de conducta](https://github.com/jsconfcl/code_of_conduct), a respetar la privacidad de usuarios y hacer buen uso de los datos e información a los que tengan accesso.
+Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineering Tennants](https://eng.jschile.org/JSChile-Principios-de-Ingenier-a-7c87246f2dac49f38b42dd509238f9fb), se compromenten a seguir y hacer cumplir nuestro [código de conducta](https://github.com/jsconfcl/code_of_conduct), a respetar la privacidad de usuarios y hacer buen uso de los datos e información a los que tengan accesso.
 
 
 ## Engineering Team
