@@ -10,6 +10,7 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineer
 | **Nombre** | **Github Username** |
 | ------------------------------------------- | -------------------------------------------------------------------- |
 | Felipe Torres                               | [@fforres](https://github.com/fforres)                               |
+| José LEzama GOnzález                        | [@joseglego](https://github.com/joseglego)                           |
 | Benjamin Perez                              | [@benjvvp](https://github.com/benjvvp)                               |
 | Rodrigo Bustamante                          | [@rodrigobustamante](https://github.com/rodrigobustamante)           |
 
