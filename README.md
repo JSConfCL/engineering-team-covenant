@@ -8,10 +8,12 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineer
 ## Engineering Team
 
 | **Nombre** | **Github Username** |
-| ------------------------------------------- | ------------------------------------------------- |
-| Felipe Torres                               | [@fforres](https://github.com/fforres)            |
-| Benjamin Perez                              | [@benjvvp](https://github.com/benjvvp)            |
-| Vicente González                            | [@Vicente-G](https://github.com/Vicente-G)        |
+| ------------------------------------------- | -------------------------------------------------------------------- |
+| Felipe Torres                               | [@fforres](https://github.com/fforres)                               |
+| José LEzama GOnzález                        | [@joseglego](https://github.com/joseglego)                           |
+| Benjamin Perez                              | [@benjvvp](https://github.com/benjvvp)                               |
+| Rodrigo Bustamante                          | [@rodrigobustamante](https://github.com/rodrigobustamante)           |
+| Vicente González                            | [@Vicente-G](https://github.com/Vicente-G)                           |
 
 <!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
 <!--
