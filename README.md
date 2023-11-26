@@ -15,6 +15,7 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineer
 | Rodrigo Bustamante                          | [@rodrigobustamante](https://github.com/rodrigobustamante)           |
 | Vicente González                            | [@Vicente-G](https://github.com/Vicente-G)                           |
 | Pillippa Pérez Pons                         | [@Pillin](https://github.com/Pillin)                                 |
+| Cecilia Geraldo                             | [@ceciliaGeraldo](https://github.com/ceciliaGeraldo)                 |
 | Claudio Álvarez Rivera                      | [@ottoalvarez](https://github.com/ottoalvarez)                       |
 | Leslie Herrera                              | [@Dereemii](https://github.com/Dereemii)                             |
 
