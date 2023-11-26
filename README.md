@@ -13,8 +13,10 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineer
 | José LEzama GOnzález                        | [@joseglego](https://github.com/joseglego)                           |
 | Benjamin Perez                              | [@benjvvp](https://github.com/benjvvp)                               |
 | Rodrigo Bustamante                          | [@rodrigobustamante](https://github.com/rodrigobustamante)           |
-| Vicente González                            | [@Vicente-G](https://github.com/Vicente-G)                           
-| Leslie Herrera                              | [@Dereemii](https://github.com/Dereemii)                           ||
+| Vicente González                            | [@Vicente-G](https://github.com/Vicente-G)                           |
+| Pillippa Pérez Pons                         | [@Pillin](https://github.com/Pillin)                                 |
+| Claudio Álvarez Rivera                      | [@ottoalvarez](https://github.com/ottoalvarez)                       |
+| Leslie Herrera                              | [@Dereemii](https://github.com/Dereemii)                             |
 
 <!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
 <!--
