@@ -4,6 +4,7 @@ Este repo es nuestro registro de quienes pertenecen al Equipo de Ingenería de J
 
 Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principios de Ingeniería](https://eng.jschile.org/JSChile-Principios-de-Ingenier-a-7c87246f2dac49f38b42dd509238f9fb), se compromenten a seguir y hacer cumplir nuestro [código de conducta](https://github.com/jsconfcl/code_of_conduct), a respetar la privacidad de usuarios y hacer buen uso de los datos e información a los que tengan acceso.
 
+[![Firma](https://img.shields.io/badge/firma_aqui!-f7df1e?style=for-the-badge&logo=buddy&logoColor=000000)](https://github.com/jsconfcl/engineering-team-covenant/issues/new?template=sign-the-terms.yml)
 
 ## Engineering Team
 
