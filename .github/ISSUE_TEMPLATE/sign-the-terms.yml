@@ -1,0 +1,20 @@
+name: 'Firmar el acuerdo'
+description: 'Sigue los pasos para formar parte del equipo de ingeniería de JavaScript Chile.'
+body:
+  - type: markdown
+    attributes:
+      value: Agradecemos enormemente tu interés en formar parte de nuestro equipo de ingeniería. Para completar tu aplicación, debes haber leído y comprometerte a cumplir nuestro [Código de Conducta](https://github.com/jsconfcl/code_of_conduct) y aceptar nuestros [Principios de Ingeniería](https://eng.jschile.org/JSChile-Principios-de-Ingenier-a-7c87246f2dac49f38b42dd509238f9fb). Si aún no lo has hecho, por favor, hazlo antes de continuar.
+
+  - type: markdown
+    attributes:
+      value: Para terminar tu aplicación, por favor, ingresa tu nombre y apellido en el título de esta solicitud. Ten en cuenta que el uso de mayúsculas se preservará en la firma, además, esta quedará inmortalizada en el README, pudiéndo ser modificada solo con la asistencia de un administrador.
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: He leído y me comprometo a
+      options:
+        - label: Seguir y hacer cumplir el Código de Conducta de JavaScript Chile.
+          required: true
+        - label: Guiarme por los Principios de Ingeniería de JavaScript Chile.
+          required: true
