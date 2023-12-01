@@ -18,6 +18,7 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineer
 | Cecilia Geraldo                             | [@ceciliaGeraldo](https://github.com/ceciliaGeraldo)                 |
 | Claudio Álvarez Rivera                      | [@ottoalvarez](https://github.com/ottoalvarez)                       |
 | Leslie Herrera                              | [@Dereemii](https://github.com/Dereemii)                             |
+| Ignacio Guzmán                              | [@TextC0de](https://github.com/TextC0de)                             |
 | Alex Elgueta                                | [@AlexElguetaDev](https://github.com/AlexElguetaDev)                 |
 | Simón Muñoz Saavedra                        | [@Sabmus](https://github.com/Sabmus)                                 |
 
