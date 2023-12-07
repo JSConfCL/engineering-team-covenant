@@ -21,6 +21,7 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Engineer
 | Ignacio Guzmán                              | [@TextC0de](https://github.com/TextC0de)                             |
 | Alex Elgueta                                | [@AlexElguetaDev](https://github.com/AlexElguetaDev)                 |
 | Simón Muñoz Saavedra                        | [@Sabmus](https://github.com/Sabmus)                                 |
+| Francisco Cordero                           | [@panchocorderos](https://github.com/panchocorderos)                                 |
 
 <!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
 <!--
