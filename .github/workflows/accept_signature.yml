@@ -1,0 +1,37 @@
+name: Accept new signature
+
+concurrency:
+  group: one-at-a-time
+  cancel-in-progress: false
+
+on:
+  issues:
+    types: [closed]
+    
+permissions:
+  contents: write
+
+jobs:
+  add-signature:
+    runs-on: ubuntu-latest
+    if: ${{ github.actor != github.event.issue.user.login }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Add the signment of user
+        if: ${{ github.actor != 'github-actions[bot]' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUMBER: ${{ github.event.issue.number }}
+          USER: ${{ github.event.issue.user.login }}
+          NAME: ${{ github.event.issue.title }}
+          ID: ${{ github.event.issue.user.id }}
+        run: |
+          sed -i 's;### Con 💛 JSCL.Eng;'"| $NAME | [@$USER](https://github.com/$USER) |"';' ./README.md
+          echo "### Con 💛 JSCL.Eng" >> ./README.md
+          git config --global user.email "$ID+$USER@users.noreply.github.com"
+          git config --global user.name "$USER"
+          git add .
+          git commit -m "feat: Acuerdo firmado por $USER en la issue #$NUMBER"
+          git push origin main
+          fi
