@@ -27,8 +27,11 @@ jobs:
           NAME: ${{ github.event.issue.title }}
           ID: ${{ github.event.issue.user.id }}
         run: |
+          if grep -qi "@$USER" ./README.md; then
+          echo "Preventing the duplicate signature..."
+          else
           sed -i 's;### Con 💛 JSCL.Eng;'"| $NAME | [@$USER](https://github.com/$USER) |"';' ./README.md
-          echo "### Con 💛 JSCL.Eng" >> ./README.md
+          echo -e "\n### Con 💛 JSCL.Eng" >> ./README.md
           git config --global user.email "$ID+$USER@users.noreply.github.com"
           git config --global user.name "$USER"
           git add .

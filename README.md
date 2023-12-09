@@ -22,4 +22,5 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 | Ignacio Guzmán | [@TextC0de](https://github.com/TextC0de) |
 | Alex Elgueta | [@AlexElguetaDev](https://github.com/AlexElguetaDev) |
 | Simón Muñoz Saavedra | [@Sabmus](https://github.com/Sabmus) |
-| Francisco Cordero | [@panchocorderos](https://github.com/panchocorderos) |### Con 💛 JSCL.Eng
+| Francisco Cordero | [@panchocorderos](https://github.com/panchocorderos) |
+### Con 💛 JSCL.Eng
