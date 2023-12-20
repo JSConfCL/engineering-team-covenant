@@ -23,4 +23,12 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 | Alex Elgueta | [@AlexElguetaDev](https://github.com/AlexElguetaDev) |
 | Simón Muñoz Saavedra | [@Sabmus](https://github.com/Sabmus) |
 | Francisco Cordero | [@panchocorderos](https://github.com/panchocorderos) |
+| Cristobal Alvarez Gutierrez | [@CristobalAlvarezGutierrez](https://github.com/CristobalAlvarezGutierrez)       |
+
+<!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
+<!--
+
+|                                             | [x](xxxxx)                                        |  
+-->
+
 ### Con 💛 JSCL.Eng
