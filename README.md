@@ -31,4 +31,5 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 |                                             | [x](xxxxx)                                        |  
 -->
 
+| Giovanni Muñoz | [@volta2016](https://github.com/volta2016) |
 ### Con 💛 JSCL.Eng
