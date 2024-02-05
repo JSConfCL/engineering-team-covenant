@@ -27,6 +27,7 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 | Giovanni Muñoz | [@volta2016](https://github.com/volta2016) |
 | Ricardo Cuauro | [@odracirdev](https://github.com/odracirdev) |
 | David Quezada | [@DvdQzd](https://github.com/dvdqzd) |
+| Denisse Alfaro Pérez | [@daraletdev](https://github.com/daraletdev) |
 
 <!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
 <!--
