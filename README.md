@@ -28,6 +28,7 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 | Ricardo Cuauro | [@odracirdev](https://github.com/odracirdev) |
 | David Quezada | [@DvdQzd](https://github.com/dvdqzd) |
 | Denisse Alfaro Pérez | [@daraletdev](https://github.com/daraletdev) |
+| Francisca Beatriz Medina Concha | [@frani-be](https://github.com/frani-be) |
 
 <!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
 <!--
