@@ -23,15 +23,15 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 | Alex Elgueta | [@AlexElguetaDev](https://github.com/AlexElguetaDev) |
 | Simón Muñoz Saavedra | [@Sabmus](https://github.com/Sabmus) |
 | Francisco Cordero | [@panchocorderos](https://github.com/panchocorderos) |
-| Cristobal Alvarez Gutierrez | [@CristobalAlvarezGutierrez](https://github.com/CristobalAlvarezGutierrez)       |
+| Cristobal Alvarez Gutierrez | [@CristobalAlvarezGutierrez](https://github.com/CristobalAlvarezGutierrez)|
+| Giovanni Muñoz | [@volta2016](https://github.com/volta2016) |
+| Ricardo Cuauro | [@odracirdev](https://github.com/odracirdev) |
+| David Quezada | [@DvdQzd](https://github.com/dvdqzd) |
 
 <!-- Este es un placeholder para una nueva entrada, sientente libre de copiarlo y usarlo en la tabla superior. -->
 <!--
 
 |                                             | [x](xxxxx)                                        |  
 -->
-
-| Giovanni Muñoz | [@volta2016](https://github.com/volta2016) |
-| Ricardo Cuauro | [@odracirdev](https://github.com/odracirdev) |
 
 ### Con 💛 JSCL.Eng
