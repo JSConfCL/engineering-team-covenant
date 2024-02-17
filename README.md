@@ -39,4 +39,6 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 
 | Consuelo Garrido Abedrapo | [@cgarrido-a](https://github.com/cgarrido-a) |
 
+| Tomás Bastias Lagos | [@Masba47](https://github.com/Masba47) |
+
 ### Con 💛 JSCL.Eng
