@@ -37,4 +37,6 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 |                                             | [x](xxxxx)                                        |  
 -->
 
+| Consuelo Garrido Abedrapo | [@cgarrido-a](https://github.com/cgarrido-a) |
+
 ### Con 💛 JSCL.Eng
