@@ -41,4 +41,6 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 
 | Tomás Bastias Lagos | [@Masba47](https://github.com/Masba47) |
 
+| Daniela Cortez | [@danielacrtzv](https://github.com/danielacrtzv) |
+
 ### Con 💛 JSCL.Eng
