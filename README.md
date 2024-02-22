@@ -43,4 +43,6 @@ Quienes firman, han leido y están de acuerdo con lo definido nuestros [Principi
 
 | Daniela Cortez | [@danielacrtzv](https://github.com/danielacrtzv) |
 
+| Josué Valenzuela Cortes | [@joshvader](https://github.com/joshvader) |
+
 ### Con 💛 JSCL.Eng
